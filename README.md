@@ -6,4 +6,4 @@
 ### I am currently studying on Tryhackme.com, Hackthebox, Immersive labs, cybersec labs, ect.
 
 
-https://github.com/DrXploiter/DrXploiter/blob/main/badge.png
+![alt text](https://github.com/DrXploiter/DrXploiter/blob/main/badge.png)
