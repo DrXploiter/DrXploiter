@@ -1,4 +1,4 @@
-### Pentester/Programmer/CTF-developer
+### Pentester/CTF-developer/Programmer
 
 ### I am currently studying on Tryhackme.com, Hackthebox, Immersive labs, cybersec labs, ect.
 
